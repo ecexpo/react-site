@@ -3,128 +3,99 @@
         "pretty_name": "Co-Directors",
         "persons":[
             {
-                "name" : "Bhavika Kagathi",
-                "linkedin_url": "https://www.linkedin.com/in/bhavika-kagathi/",
-                "photo_src":"Bhavika Kagathi Headshot.jpg"
+                "name" : "Jacob Johnson",
+                "photo_src":"Jacob Johnson.jpg"
             },
             {
-                "name" : "John Gitschlag",
-                "linkedin_url":"https://www.linkedin.com/in/john-gitschlag/",
-                "photo_src":"Jack Gitschlag Headshot.jpg"
+                "name" : "Ananya Shah",
+                "photo_src":"Ananya Shah.jpg",
+                "linkedin_url": "www.linkedin.com/in/ananya-c-shah03"
             }
         ]
     },
     {
-        "pretty_name": "Internal Affairs",
+        "pretty_name": "Volunteer Leads",
         "persons":[
             {
-                "name": "Akarsh Vankayalapati",
-                "photo_src": "Akarsh.jpg",
-                "linkedin_url":"https://www.linkedin.com/in/akarsh-v/"
+                "name": "Shane Bodhanwala",
+                "photo_src": "Shane Bodhanwala.jpeg"
             },
             {
-                "name": "Gillian Niezyniecki",
-                "photo_src": "Gillian_Niezyniecki.jpg",
-                "linkedin_url":"https://www.linkedin.com/in/gillian-niezyniecki/"
+                "name": "Trisha Sharma",
+                "photo_src": "Trisha Sharma.jpg"
             }
         ]
     },
     {
-        "pretty_name": "Secretaries",
+        "pretty_name": "Reverse Career Fair Leads",
         "persons":[
             {
-                "name": "Shivani Ramesh",
-                "photo_src":"Shivani Ramesh Headshot.jpg",
-                "linkedin_url":"https://www.linkedin.com/in/shivaniramesh552/"
+                "name":"Abdullah Choudhry",
+                "photo_src":"default.png"
             },
             {
-                "name":"Janani Rajadurai",
-                "photo_src":"JananiRajadurai_Headshot_2021.jpg"
+                "name": "Anissa Patel",
+                "photo_src":"default.png"
             }
         ]
     },
     {
-        "pretty_name": "Volunteer Coordinators",
+        "pretty_name": "Tech Lead",
         "persons":[
             {
-                "name": "Devika Prasad",
-                "photo_src": "Devika Prasad.jpeg",
-                "linkedin_url": "https://www.linkedin.com/in/devika-prasad/"
-            },
-            {
-                "name":"David Pryce Hodges",
-                "linkedin_url":"https://www.linkedin.com/in/davidprycehodges/",
-                "photo_src":"David Hodges Headshot.jpg"
-            },
-            {
-                "name":"Riya Agarwal",
-                "linkedin_url":"https://www.linkedin.com/in/riya-agrawal-394272228/",
-                "photo_src":"Riya_Agrawal.jpg"
-            },
-            {
-                "name":"Sathvik Rajasekaran",
-                "linkedin_url":"https://www.linkedin.com/in/sathvik-rajasekaran-40a21516a/",
-                "photo_src":"Sathvik.jpg"
+                "name": "Sherry Long",
+                "photo_src": "Sherry Long.jpg",
+                "linkedin_url": "https://www.linkedin.com/in/sherry-long/"
             }
         ]
     },
     {
-        "pretty_name": "Reverse Career Fair Coordinators",
+        "pretty_name": "Committee Members",
         "persons":[
             {
-                "name":"Danny Gentile",
-                "photo_src":"Gentile.jpg",
-                "linkedin_url": "https://www.linkedin.com/in/daniel-gentile-5a142a173/"
+                "name":"Aarthi Balaji",
+                "photo_src":"Aarthi Balaji.jpg"
             },
             {
-                "name":"Isha Akella",
-                "photo_src":"IshaAkella.JPG",
-                "linkedin_url": "https://www.linkedin.com/in/isha-akella/"
+                "name":"Hiruni Bopearatchy",
+                "photo_src":"Hiruni Bopearatchy.jpg",
+                "linkedin_url": "www.linkedin.com/in/hirunibopearatchy"
             },
             {
-                "name":"Lindsay Kwok",
-                "linkedin_url":"https://www.linkedin.com/in/lindsay-kwok/",
-                "photo_src":"Lindsay_Kwok.jpg"
+                "name":"Samarth Gupta",
+                "photo_src":"Samarth Gupta.jpg"
+            },
+            {
+                "name":"Jihoo Kim",
+                "photo_src":"Jihoo Kim.png",
+                "linkedin_url": "https://www.linkedin.com/in/jihooevelyn/"                
             },
             {
                 "name":"Aditi Shah",
-                "linkedin_url":"https://www.linkedin.com/in/aditi-shah-82027521b/",
-                "photo_src":"Aditi.jpeg"
-                
+                "photo_src":"default.png"
             },
             {
-                "name":"Thomas Alakkatt",
-                "photo_src":"Thomas_Alakkatt.jpg"
-            }
-        ]
-    },
-    {
-        "pretty_name": "Publicity",
-        "persons":[
-            {
-                "name":"Josephine Hoppenworth",
-                "photo_src":"Josie Hopp.JPG"
+                "name":"Yueyi Shen",
+                "photo_src":"default.png"
             },
             {
-                "name":"Ariya Patel",
-                "photo_src":"Ariya.jpg"
-            }
-        ]
-    },
-    {
-        "pretty_name": "Tech Coordinators",
-        "persons":[
-            {
-                "name": "Ravyu Sivakumaran",
-                "linkedin_url": "https://www.linkedin.com/in/ravyu/",
-                "photo_src":"ravyu.jpg"
+                "name":"Anna Shukhter",
+                "photo_src":"default.png"
             },
             {
-                "name":"Shoshanna Perchanok"
+                "name":"Julia Tran",
+                "photo_src":"Julia Tran.jpg",
+                "linkedin_url": "https://www.linkedin.com/in/julia-tran05/"
             },
             {
-                "name":"Karan Samat"
+                "name":"Adishree Venkateswaran",
+                "photo_src":"Adishree Venkateswaran.jpg"
+            },
+            {
+                "name":"Ben Wang",
+                "photo_src":"Ben Wang.jpg"
             }
         ]
     }
+    
 ]
