@@ -1,9 +1,9 @@
 import React from "react";
-import Schedule from './Schedule'
+// import Schedule from './Schedule'
 
 //TODO: Store background images locally
 //TODO: Make calendar not hard coded
-function PageHeader(props){
+function PageHeader(props) {
   return (
     <div className="wave-info">
       <div className="waveWrapper waveAnimation">
@@ -13,7 +13,7 @@ function PageHeader(props){
             style={{
               backgroundImage: `url(
                 ${"http://front-end-noobs.com/jecko/img/wave-top.png"}
-              )`
+              )`,
             }}
           />
         </div>
@@ -23,7 +23,7 @@ function PageHeader(props){
             style={{
               backgroundImage: `url(
                 ${"http://front-end-noobs.com/jecko/img/wave-mid.png"}
-              )`
+              )`,
             }}
           />
         </div>
@@ -33,17 +33,18 @@ function PageHeader(props){
             style={{
               backgroundImage: `url(
                 ${"http://front-end-noobs.com/jecko/img/wave-bot.png"}
-              )`
+              )`,
             }}
           />
         </div>
       </div>
       <div className="info-facts">
-          <img src="./images/expo_header-min.png"></img>
-          <div className="main-logo">
-            Illinois Engineering <span className="orange">Career Fair</span>
-          </div>
-          <Schedule />
+        <img src="./images/expo_header-min.png"></img>
+        <div className="main-logo">
+          Illinois Engineering <span className="orange">Career Fair</span>
+        </div>
+        {/* Temporarily removed schedule due to backend dependency*/}
+        {/* <Schedule /> */}
       </div>
     </div>
   );
